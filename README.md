@@ -1,6 +1,6 @@
 # Arch Linux User Setup
 
-Just run this in a newly installed Arch Linux as root, follow the prompts and thank me later.
+Just run this on a freshly installed Arch Linux as root, follow the prompts and thank me later.
 
 ## Usage
 
